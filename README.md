@@ -100,7 +100,6 @@ What is next for you? You can start with the OSSU [Computer Science](https://cs.
 
 * [Waciuma Wanjohi](https://github.com/waciumawanjohi)
 * [Flomza](https://github.com/Flomza)
-* [Pulkit Krishna](https://github.com/pulkitkrishna00)
 * [Bradley Grant](https://github.com/bradleygrant)
 * [Zach Meyer](https://github.com/zachmmeyer)
 * **[Contributors](https://github.com/ossu/precollege-math/graphs/contributors)**
