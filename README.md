@@ -11,57 +11,7 @@
 </p>
 </div>
 
-# Contents
 
-- [Summary](#summary)
-- [Community](#community)
-- [Curriculum](#curriculum)
-- [Code of conduct](#code-of-conduct)
-- [Team](#team)
-
-# Summary
-
-The OSSU curriculum is a **complete education in pre-college math** using online materials.
-It's for those who want a proper, *well-rounded* grounding in fundamental concepts
-and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
-
-The courses are specifically chosen to meet the following criteria.
-
-**Courses must**:
-- Be open for enrollment
-- Run regularly (ideally in self-paced format, otherwise running multiple times per year)
-- Be of generally high quality in teaching materials and pedagogical principles
-- Match the [curricular standards](CURRICULAR_GUIDELINES.md)
-
-When there are courses or books that don’t fit into the curriculum but are otherwise of high quality, they belong in [extras/courses](/extras/courses.md) or [extras/readings](/extras/readings.md).
-
-**Cost**. All or nearly all course material is available for free. However, some extra courses may charge money for assignments/tests/projects to be graded.
-Note that both [Coursera](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship?language=en_US) and [edX](https://courses.edx.org/financial-assistance/) offer financial aid.
-
-Decide how much or how little to spend based on your own time and budget;
-just remember that you can't purchase success!
-
-**Process**. Students can work through the curriculum alone or in groups. Each course has a prerequisite of the previous course, so they should be done in a linear order top to bottom.
-
-**Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Respect the code of conduct* that you signed in the beginning of each course!
-
-**[How to contribute](CONTRIBUTING.md)**
-
-**[Getting help](HELP.md)** (Details about our FAQ and chatroom)
-
-# Community
-
-- We have a Discord server! [![Discord](https://img.shields.io/discord/744385009028431943.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wuytwK5s9h) This should be your first stop to talk with other OSSU students. Why don't you introduce yourself right now? [Join the OSSU Discord](https://discord.gg/wuytwK5s9h)
-- You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
-- Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
-
-# Curriculum
-
-Many OSSU students choose to review math topics that they have not studied recently.
-OSSU recommends using [The College Prep School](https://www.youtube.com/@thecollegeprepschool4486/playlists) for such a review.
-To determine where you should start, we recommend scanning through the Final Tests for anything you may be uncomfortable with. After taking an assessment, you should have a clear idea of what topics to study and where you should start with the resources below.
 
 Courses | Duration | Effort | Prerequisites | Assessments
 :-- | :--: | :--: | :--: | :--:
@@ -74,32 +24,4 @@ Courses | Duration | Effort | Prerequisites | Assessments
 [Precalculus](/coursepages/precalculus/README.md) | 26 Weeks | 9 hours/week | Trigonometry | [Final Test Part 1](https://www.youtube.com/watch?v=OY63IBm5RpI&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=45&pp=iAQB0gcJCTgDd0p55Nqk), [Part 2](https://www.youtube.com/watch?v=aY7qINRAOvU&list=PLm2VEQtiYjhrrznuk1nQu9qJBniirGXl_&index=47&pp=iAQB)
 
 
-When going through the playlists, it's important to pause the video and complete most of the problems yourself. You don't have to complete all the problems since a few are used to demonstrate the solving technique, but try to complete as many as possible.
-Practice what you have not mastered by:
-1. Googling and/or searching [YouTube](https://www.youtube.com/) for another POV on the topic or more practice problems, working through the examples with them. [Khan Academy](https://www.youtube.com/@khanacademy), [The Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor), & [Professor Leonard](https://www.youtube.com/@ProfessorLeonard) are great resources for this.
-2. Asking for help in #prerequisite-math on [Discord](https://discord.gg/mS4GnBCdZk).
 
-## Congratulations
-
-After completing the requirements of the curriculum above,
-you have completed all the prerequisite math necessary to begin a bachelor's degree.
-Congratulations!
-
-What is next for you? You can start with the OSSU [Computer Science](https://cs.ossu.dev), [Data Science](https://ds.ossu.dev), or [Math](https://math.ossu.dev/) curriculum.
-
-![keep learning](images/keep-learning.webp)
-
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
-
-## How to show your progress
-
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/precollege-math) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
-
-# Team
-
-* [Waciuma Wanjohi](https://github.com/waciumawanjohi)
-* [Flomza](https://github.com/Flomza)
-* [Bradley Grant](https://github.com/bradleygrant)
-* [Zach Meyer](https://github.com/zachmmeyer)
-* **[Contributors](https://github.com/ossu/precollege-math/graphs/contributors)**
